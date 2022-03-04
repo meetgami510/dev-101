@@ -1,0 +1,50 @@
+header{
+    display: flex;
+    justify-content: space-between;
+}
+ul{
+    display: flex;
+    justify-content: space-around;
+    list-style-type: none;
+    font-size: x-large;
+    font-weight: normal;
+}
+h1{
+    font-weight: normal;
+}
+
+nav{
+    width: 60%;
+}
+.biimg{
+    width: 95vw;
+    margin: 1rem;
+}
+li:hover{
+    cursor: pointer;
+    color: red;
+}
+.con{
+    display: flex;
+    text-align: center;
+    margin-top: 50px;
+    margin: 3rem;
+    
+}
+p{
+    font-size: larger;
+}
+.umb{
+    color: white;
+    background-color: black;
+    text-align: center;
+    height: 0.5in;
+    margin-bottom: 100px;
+}
+footer{
+    color: white;
+    text-align: center;
+    background-color: black;
+    padding: 1rem;
+    font-size: larger;
+}
